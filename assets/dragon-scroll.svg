@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+<title id="title">The Dragon Scroll</title>
+<desc id="desc">A friendly panda beside a golden scroll. No secret ingredient. Just keep building.</desc>
+<style>
+.reveal{transform-origin:480px 150px;animation:reveal 500ms cubic-bezier(.23,1,.32,1) both}
+@keyframes reveal{from{opacity:0;transform:scaleX(.95)}to{opacity:1;transform:scaleX(1)}}
+@media(prefers-reduced-motion:reduce){.reveal{animation:none}}
+</style>
+<rect width="960" height="300" rx="20" fill="#142b26"/>
+<g opacity=".15" stroke="#a4c67b" stroke-width="7"><path d="M52 300 79 0M103 300 117 0M862 300 884 0M904 300 925 0"/><path d="m65 170 40-12m-34-66 40-12m761 118 41-9m-37-74 42-9"/></g>
+<circle cx="768" cy="72" r="40" fill="#e8c56d" opacity=".12"/>
+<g class="reveal">
+<rect x="220" y="54" width="565" height="190" rx="8" fill="#e8c56d"/>
+<rect x="232" y="65" width="541" height="168" rx="3" fill="#f7e8bf" stroke="#b78b35"/>
+<g fill="#9d692e" stroke="#e8c56d" stroke-width="2"><rect x="208" y="43" width="24" height="212" rx="12"/><rect x="773" y="43" width="24" height="212" rx="12"/></g>
+<text x="500" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="15" letter-spacing="5" fill="#6f713d">THE DRAGON SCROLL</text>
+<text x="500" y="153" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#263c30">No secret ingredient.</text>
+<text x="500" y="190" text-anchor="middle" font-family="Georgia,serif" font-size="23" fill="#4e6248">Just keep building.</text>
+<path d="M460 211h80" stroke="#b78b35" stroke-width="2"/>
+</g>
+<g stroke="#172925" stroke-width="3">
+<ellipse cx="159" cy="225" rx="57" ry="45" fill="#f4f0e4"/>
+<ellipse cx="124" cy="250" rx="24" ry="15" fill="#172925"/><ellipse cx="196" cy="250" rx="24" ry="15" fill="#172925"/>
+<circle cx="120" cy="130" r="20" fill="#172925"/><circle cx="196" cy="130" r="20" fill="#172925"/>
+<ellipse cx="158" cy="165" rx="55" ry="49" fill="#f4f0e4"/>
+<ellipse cx="138" cy="161" rx="14" ry="19" transform="rotate(25 138 161)" fill="#172925"/>
+<ellipse cx="180" cy="161" rx="14" ry="19" transform="rotate(-25 180 161)" fill="#172925"/>
+<g fill="#fff" stroke="none"><circle cx="141" cy="159" r="5"/><circle cx="177" cy="159" r="5"/></g>
+<path d="m152 179 7 5 7-5Z" fill="#172925"/><path d="M147 191q12 12 24 0" fill="none" stroke-linecap="round"/>
+<path d="m115 215 28 15m53-15-27 15" stroke-width="20" stroke-linecap="round"/>
+<path d="M135 222q25-15 48 0l-8 17h-32Z" fill="#d7b45c" stroke="#9d692e" stroke-width="2"/>
+</g>
+</svg>
