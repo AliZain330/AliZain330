@@ -33,6 +33,8 @@ Researching retrieval-augmented AI agents for automated engineering CAD generati
 
 ### 🥟 Say hi
 
+Want to build something together? If you’re working on an AI project or have an idea you want to try, I’d love to hear from you.
+
 [![Email](https://img.shields.io/badge/Email-142B26?style=for-the-badge&logo=gmail&logoColor=E8C56D)](mailto:alizainanwar468@gmail.com)
 [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/ali-zain-b71358316/)
 [![X](https://img.shields.io/badge/X-142B26?style=for-the-badge&logo=x&logoColor=E8C56D)](https://x.com/AliZain468)
