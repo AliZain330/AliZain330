@@ -9,7 +9,7 @@
 
 Year two at **HKU**, studying **AI & Data Science**. Founder of **AALEEN**, currently building [**Immersive**](https://aaleen.dev/immersive).
 
-I love building things with AI, and I want to make a living out of it. I want to make the most of this AI era by turning more of my ideas into things people can use. Right now, I’m a full-time student and a small-time entrepreneur. One day, I hope to call myself a full-time entrepreneur.
+I love building things with AI, and want to make the most of this AI era by turning more of my ideas into things people can use. Right now, I’m a full-time student and a small-time entrepreneur. One day, I hope to call myself a full-time entrepreneur.
 
 ### 🛠️ Out of the training hall
 
