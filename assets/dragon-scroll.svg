@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
 <title id="title">The Dragon Scroll</title>
-<desc id="desc">A friendly panda beside a golden scroll. No secret ingredient. Just keep building.</desc>
+<desc id="desc">A friendly panda beside a golden scroll introducing Ali Zain, currently studying at HKU.</desc>
 <style>
 .reveal{transform-origin:480px 150px;animation:reveal 500ms cubic-bezier(.23,1,.32,1) both}
 @keyframes reveal{from{opacity:0;transform:scaleX(.95)}to{opacity:1;transform:scaleX(1)}}
@@ -14,8 +14,8 @@
 <rect x="232" y="65" width="541" height="168" rx="3" fill="#f7e8bf" stroke="#b78b35"/>
 <g fill="#9d692e" stroke="#e8c56d" stroke-width="2"><rect x="208" y="43" width="24" height="212" rx="12"/><rect x="773" y="43" width="24" height="212" rx="12"/></g>
 <text x="500" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="15" letter-spacing="5" fill="#6f713d">THE DRAGON SCROLL</text>
-<text x="500" y="153" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#263c30">No secret ingredient.</text>
-<text x="500" y="190" text-anchor="middle" font-family="Georgia,serif" font-size="23" fill="#4e6248">Just keep building.</text>
+<text x="500" y="153" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#263c30">Hey, I’m Ali Zain.</text>
+<text x="500" y="190" text-anchor="middle" font-family="Georgia,serif" font-size="23" fill="#4e6248">Currently studying at HKU.</text>
 <path d="M460 211h80" stroke="#b78b35" stroke-width="2"/>
 </g>
 <g stroke="#172925" stroke-width="3">

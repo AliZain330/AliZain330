@@ -1,36 +1,27 @@
 <p align="center">
-  <img src="assets/dragon-scroll.svg" width="100%" alt="A panda guards a golden Dragon Scroll: there is no secret ingredient." />
+  <img src="assets/dragon-scroll.svg" width="100%" alt="Hey, I’m Ali Zain. Currently studying at HKU." />
 </p>
 
 > “There is no secret ingredient. To make something special, you just have to believe it’s special.”  
 > — Mr. Ping, *Kung Fu Panda*
 
-### Hey, I’m Zain 🐼
-
-Year two at **HKU**, studying **AI & Data Science**. Founder of **AALEEN**, currently building [**Immersive**](https://aaleen.dev/immersive).
+Year two · **AI & Data Science** · Founder of **AALEEN** · Building [**Immersive**](https://aaleen.dev/immersive)
 
 I love building things with AI, and want to make the most of this AI era by turning more of my ideas into things people can use. Right now, I’m a full-time student and a small-time entrepreneur. One day, I hope to call myself a full-time entrepreneur.
 
-### 🛠️ Out of the training hall
+### 🔬 Currently working on
 
-- **[Immersive](https://aaleen.dev/immersive)** — connecting projects, drawings, approvals, payments, and office PCs for engineering teams. My biggest build so far. Private code; public case study.
-- **[YouStamps](https://github.com/AliZain330/YouStamps)** — turning YouTube videos into clickable chapters.
-- **[TutorOffice](https://github.com/AliZain330/tutoroffice)** — scheduling, student progress, and the everyday work of running tutoring classes.
+Researching retrieval-augmented AI agents for automated engineering CAD generation.
 
-<details>
-<summary>📜 Open the scroll — a little more about me</summary>
+### 🧰 Technologies I’ve worked with
 
-<br />
+**Languages I know** · Python, C++, R
 
-I try to build something, contribute to a project, and learn something new about AI every day. Somewhere in between, I’m studying machine learning, AI, and statistics.
+<img src="https://skillicons.dev/icons?i=python,cpp,r" alt="Python, C++, and R" />
 
-My side interests are public speaking, leadership, and cricket.
+**Building with** · React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Supabase, Git
 
-**Usually building with:** TypeScript, React, Python, Node.js, and PostgreSQL.
-
-If you’re at HKU, working on an interesting AI project, or have an idea you want to try, I’d love to hear about it.
-
-</details>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,postgres,prisma,supabase,git&amp;perline=5" alt="React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Supabase, and Git" />
 
 ### 🥟 Say hi
 
