@@ -15,20 +15,32 @@ Researching retrieval-augmented AI agents for automated engineering CAD generati
 
 ### Technologies I have worked with
 
-<table>
-  <tr>
-    <td align="center" valign="middle" width="25%">
-      <img src="https://skillicons.dev/icons?i=python,cpp,r" alt="Python, C++, R" />
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,express,postgres,prisma,supabase,git,githubactions,bun,vite,vitest,cloudflare,powershell,autocad,sklearn&amp;perline=6" alt="TypeScript, JavaScript, React, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Supabase, Git, GitHub Actions, Bun, Vite, Vitest, Cloudflare, PowerShell, AutoCAD, scikit-learn" />
-      <br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" title="R" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" title="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" title="Express" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" title="Prisma" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" title="Bun" />
+  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=vitest" width="48" height="48" alt="Vitest" title="Vitest" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=autocad" width="48" height="48" alt="AutoCAD" title="AutoCAD" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" title="Jupyter" />
+</p>
 
 ### 🥟 Say hi
 
