@@ -19,12 +19,24 @@ Researching retrieval-augmented AI agents for automated engineering CAD generati
 
 <img src="https://skillicons.dev/icons?i=python,cpp,r" alt="Python, C++, and R" />
 
-**Building with** · React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Supabase, Git
+**Web & backend** · TypeScript, JavaScript, React, TanStack Start / Router / Query, Tailwind CSS, shadcn/ui, Node.js, Express, PostgreSQL, Prisma, Supabase
 
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,postgres,prisma,supabase,git&amp;perline=5" alt="React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Supabase, and Git" />
 
+**Data & ML** · Pandas, NumPy, scikit-learn, Jupyter, Power BI
+
+**CAD & automation** · AutoCAD, Python agents, PowerShell, WinRM, SMB, Tailscale
+
+**Tools & deployment** · Git, GitHub Actions, Bun, Vite, Vitest, ESLint, Cloudflare Workers, PM2
+
+**AI development** · OpenAI Codex, Claude Code, Cursor
+
 ### 🥟 Say hi
 
-[Email](mailto:alizainanwar468@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ali-zain-b71358316/) · [X](https://x.com/AliZain468) · [Instagram](https://www.instagram.com/alizain_anwar/) · [AALEEN](https://aaleen.dev/immersive)
+[![Email](https://img.shields.io/badge/Email-142B26?style=for-the-badge&logo=gmail&logoColor=E8C56D)](mailto:alizainanwar468@gmail.com)
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/ali-zain-b71358316/)
+[![X](https://img.shields.io/badge/X-142B26?style=for-the-badge&logo=x&logoColor=E8C56D)](https://x.com/AliZain468)
+[![Instagram](https://img.shields.io/badge/Instagram-142B26?style=for-the-badge&logo=instagram&logoColor=E8C56D)](https://www.instagram.com/alizain_anwar/)
+[![AALEEN](https://img.shields.io/badge/AALEEN-142B26?style=for-the-badge&logo=googlechrome&logoColor=E8C56D)](https://aaleen.dev/immersive)
 
 <p align="center"><sub>Still training. Still building. Skadoosh.</sub></p>
