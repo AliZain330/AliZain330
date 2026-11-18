@@ -22,7 +22,7 @@ I love building things, and I want to make a life out of it. Most days look like
 
 <br />
 
-Entrepreneurship is where I’m headed. Right now, I’m learning how to build useful products while studying machine learning, AI, and statistics.
+Right now, I’m a full-time student and a small-time entrepreneur. One day, I hope to call myself a full-time entrepreneur.
 
 I also enjoy the people side of building: bringing teams together, debating ideas, and getting something off the ground. I founded STEAM Nexus and work on business and partnerships at Nocodile AI.
 
