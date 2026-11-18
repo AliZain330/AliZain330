@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
 <title id="title">Hello, I’m Ali Zain — The Dragon Scroll</title>
-<desc id="desc">A friendly panda beside a golden scroll introducing Ali Zain, currently studying at HKU.</desc>
+<desc id="desc">Currently studying at HKU. “There is no secret ingredient. To make something special, you just have to believe it’s special.” — Mr. Ping, Kung Fu Panda.</desc>
 <style>
-.reveal{transform-origin:480px 150px;animation:reveal 500ms cubic-bezier(.23,1,.32,1) both}
+.reveal{transform-origin:560px 120px;animation:reveal 500ms cubic-bezier(.23,1,.32,1) both}
 @keyframes reveal{from{opacity:0;transform:scaleX(.95)}to{opacity:1;transform:scaleX(1)}}
 .shine{animation:shine 3s cubic-bezier(.77,0,.175,1) 2;opacity:0}
 @keyframes shine{0%{transform:translateX(-400px);opacity:0}15%{opacity:1}85%{opacity:1}100%{transform:translateX(400px);opacity:0}}
@@ -12,28 +12,30 @@
 <linearGradient id="jade" x2="1" y2="1"><stop stop-color="#0c211e"/><stop offset="1" stop-color="#254b3b"/></linearGradient>
 <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#eacb85"/><stop offset=".5" stop-color="#fff0ca"/><stop offset="1" stop-color="#dfb967"/></linearGradient>
 <linearGradient id="gleam"><stop stop-color="#fff4cf" stop-opacity="0"/><stop offset=".5" stop-color="#b77a13"/><stop offset="1" stop-color="#fff4cf" stop-opacity="0"/></linearGradient>
-<clipPath id="name"><text x="500" y="153" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="34">Hello, I’m Ali Zain.</text></clipPath>
+<clipPath id="name"><text x="560" y="78" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="32">Hello, I’m Ali Zain.</text></clipPath>
 </defs>
-<rect width="960" height="300" rx="20" fill="#142b26"/>
-<rect x="1" y="1" width="958" height="298" rx="20" fill="url(#jade)" stroke="#ac893e" stroke-opacity=".55"/>
-<circle cx="828" cy="78" r="42" fill="#e8c56d" opacity=".25"/>
-<path d="M1 242 110 140 190 222 289 128 408 250 530 171 660 251 785 137 959 245V280H1Z" fill="#61836a" opacity=".2"/>
-<path d="M1 269 135 204 241 274 386 202 560 275 720 206 850 267 959 225V298H1Z" fill="#0b211c" opacity=".65"/>
-<g opacity=".15" stroke="#a4c67b" stroke-width="7"><path d="M52 300 79 0M103 300 117 0M862 300 884 0M904 300 925 0"/><path d="m65 170 40-12m-34-66 40-12m761 118 41-9m-37-74 42-9"/></g>
-<circle cx="768" cy="72" r="40" fill="#e8c56d" opacity=".12"/>
+<rect x="1" y="1" width="958" height="238" rx="16" fill="url(#jade)" stroke="#ac893e" stroke-opacity=".55"/>
+<circle cx="130" cy="58" r="32" fill="#e8c56d" opacity=".2"/>
+<path d="M1 193 74 109 157 185 240 115 360 224 490 143 640 217 780 126 959 197V239H1Z" fill="#61836a" opacity=".17"/>
+<g opacity=".18" stroke="#a4c67b" stroke-width="7"><path d="M40 240 60 0M80 240 96 0M932 240 948 0"/><path d="m49 139 37-12m-32-53 36-12m845 106 18-4"/></g>
 <g class="reveal">
-<rect x="220" y="54" width="565" height="190" rx="8" fill="#e8c56d"/>
-<rect x="232" y="65" width="541" height="168" rx="3" fill="url(#paper)" stroke="#b78b35"/>
-<path d="M245 91V78h22m471 0h22v13M245 207v13h22m471 0h22v-13" stroke="#a8792d" fill="none" stroke-width="2"/>
-<g fill="#9d692e" stroke="#e8c56d" stroke-width="2"><rect x="208" y="43" width="24" height="212" rx="12"/><rect x="773" y="43" width="24" height="212" rx="12"/></g>
-<text x="500" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="15" letter-spacing="5" fill="#6f713d">THE DRAGON SCROLL</text>
-<text x="500" y="153" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="34" fill="#263c30">Hello, I’m Ali Zain.</text>
-<g clip-path="url(#name)"><rect class="shine" x="430" y="116" width="140" height="48" fill="url(#gleam)"/></g>
-<text x="500" y="190" text-anchor="middle" font-family="Georgia,serif" font-size="23" fill="#4e6248">Currently studying at HKU.</text>
-<path d="M460 211h80" stroke="#b78b35" stroke-width="2"/>
-<rect x="705" y="185" width="28" height="28" rx="3" fill="none" stroke="#a34c32" stroke-width="2"/>
-<path d="M711 193h16m-16 6h16m-8-11v18" stroke="#a34c32" stroke-width="2"/>
+<rect x="210" y="20" width="700" height="200" rx="7" fill="#e8c56d"/>
+<rect x="221" y="29" width="678" height="182" rx="3" fill="url(#paper)" stroke="#b78b35"/>
+<g fill="#9d692e" stroke="#e8c56d" stroke-width="2"><rect x="198" y="12" width="24" height="216" rx="12"/><rect x="898" y="12" width="24" height="216" rx="12"/></g>
+<text x="560" y="47" text-anchor="middle" font-family="Georgia,serif" font-size="11" letter-spacing="4" fill="#6f713d">THE DRAGON SCROLL</text>
+<text x="560" y="78" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="32" fill="#263c30">Hello, I’m Ali Zain.</text>
+<g clip-path="url(#name)"><rect class="shine" x="490" y="49" width="140" height="38" fill="url(#gleam)"/></g>
+<text x="560" y="104" text-anchor="middle" font-family="Georgia,serif" font-size="19" fill="#4e6248">Currently studying at HKU.</text>
+<path d="M510 118h100" stroke="#b78b35"/>
+<text x="242" y="163" font-family="Georgia,serif" font-size="61" fill="#a8792d" opacity=".5">“</text>
+<g text-anchor="middle" font-family="Georgia,serif" fill="#34412b">
+<text x="560" y="147" font-size="21">There is no secret ingredient. To make something special,</text>
+<text x="560" y="174" font-size="21">you just have to believe it’s special.</text>
+<text x="560" y="199" font-size="14" font-style="italic" fill="#6c5835">— Mr. Ping, Kung Fu Panda</text>
 </g>
+<text x="851" y="198" font-family="Georgia,serif" font-size="61" fill="#a8792d" opacity=".5">”</text>
+</g>
+<g transform="translate(5 4) scale(.82)">
 <g stroke="#172925" stroke-width="3">
 <ellipse cx="159" cy="225" rx="57" ry="45" fill="#f4f0e4"/>
 <ellipse cx="124" cy="250" rx="24" ry="15" fill="#172925"/><ellipse cx="196" cy="250" rx="24" ry="15" fill="#172925"/>
@@ -45,5 +47,6 @@
 <path d="m152 179 7 5 7-5Z" fill="#172925"/><path d="M147 191q12 12 24 0" fill="none" stroke-linecap="round"/>
 <path d="m115 215 28 15m53-15-27 15" stroke-width="20" stroke-linecap="round"/>
 <path d="M135 222q25-15 48 0l-8 17h-32Z" fill="#d7b45c" stroke="#9d692e" stroke-width="2"/>
+</g>
 </g>
 </svg>

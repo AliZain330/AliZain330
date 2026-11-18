@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="assets/dragon-scroll.svg" width="100%" alt="Hello, I’m Ali Zain. Currently studying at HKU. A golden Dragon Scroll with a panda, bamboo, and jade mountains." />
-</p>
-
-<p align="center">
-  <img src="assets/secret-ingredient.svg" width="100%" alt="“There is no secret ingredient. To make something special, you just have to believe it’s special.” — Mr. Ping, Kung Fu Panda" />
+  <img src="assets/dragon-scroll.svg" width="100%" alt="Hello, I’m Ali Zain. Currently studying at HKU. “There is no secret ingredient. To make something special, you just have to believe it’s special.” — Mr. Ping, Kung Fu Panda." />
 </p>
 
 Year two undergraduate at **The University of Hong Kong**, studying **AI & Data Science** · Founder of **AALEEN** · Building [**Immersive**](https://aaleen.dev/immersive)
 
 I love building things with AI, and want to make the most of this AI era by turning more of my ideas into things people can use. Right now, I’m a full-time student and a small-time entrepreneur. One day, I hope to call myself a full-time entrepreneur.
 
-### 🐉 Currently training
+### 🐉 Currently building
 
 Researching retrieval-augmented AI agents for automated engineering CAD generation.
 
