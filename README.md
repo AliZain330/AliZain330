@@ -24,7 +24,7 @@ I love building things, and I want to make a living out of it. Right now, I’m 
 
 I try to build something, contribute to a project, and learn something new about AI every day. Somewhere in between, I’m studying machine learning, AI, and statistics.
 
-I also enjoy the people side of building: bringing teams together, debating ideas, and getting something off the ground. I founded STEAM Nexus and work on business and partnerships at Nocodile AI.
+My side interests are public speaking, leadership, and cricket.
 
 **Usually building with:** TypeScript, React, Python, Node.js, and PostgreSQL.
 
