@@ -9,7 +9,7 @@
 
 Year two at **HKU**, studying **AI & Data Science**. Founder of **AALEEN**, currently building [**Immersive**](https://aaleen.dev/immersive).
 
-I love building things, and I want to make a life out of it. Most days look like coursework, working on a project, and catching up with whatever happened in AI while I was in class. I try to build something, contribute something, and learn something every day.
+I love building things, and I want to make a living out of it. Right now, I’m a full-time student and a small-time entrepreneur. One day, I hope to call myself a full-time entrepreneur.
 
 ### 🛠️ Out of the training hall
 
@@ -22,7 +22,7 @@ I love building things, and I want to make a life out of it. Most days look like
 
 <br />
 
-Right now, I’m a full-time student and a small-time entrepreneur. One day, I hope to call myself a full-time entrepreneur.
+I try to build something, contribute to a project, and learn something new about AI every day. Somewhere in between, I’m studying machine learning, AI, and statistics.
 
 I also enjoy the people side of building: bringing teams together, debating ideas, and getting something off the ground. I founded STEAM Nexus and work on business and partnerships at Nocodile AI.
 
