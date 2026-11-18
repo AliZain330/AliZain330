@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/dragon-scroll.svg" width="100%" alt="Hello, I’m Ali Zain. Currently studying at HKU. “There is no secret ingredient. To make something special, you just have to believe it’s special.” — Mr. Ping, Kung Fu Panda." />
+  <img src="assets/dragon-scroll.svg" width="100%" alt="Hello, I’m Ali Zain. Currently studying at HKU." />
+</p>
+
+<p align="center">
+  <img src="assets/secret-ingredient.svg" width="100%" alt="There is no secret ingredient. To make something special, you just have to believe it’s special. — Mr. Ping, Kung Fu Panda" />
 </p>
 
 Year two undergraduate at **The University of Hong Kong**, studying **AI & Data Science** · Founder of **AALEEN** · Building [**Immersive**](https://aaleen.dev/immersive)
