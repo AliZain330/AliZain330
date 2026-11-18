@@ -53,4 +53,4 @@ Want to build something together? If you’re working on an AI project or have a
 [![Instagram](https://img.shields.io/badge/Instagram-142B26?style=for-the-badge&logo=instagram&logoColor=E8C56D)](https://www.instagram.com/alizain_anwar/)
 [![AALEEN](https://img.shields.io/badge/AALEEN-142B26?style=for-the-badge&logo=googlechrome&logoColor=E8C56D)](https://aaleen.dev/immersive)
 
-<p align="center"><sub>Still training. Still building. Skadoosh.</sub></p>
+<p align="center"><sub>Skadoosh.</sub></p>
