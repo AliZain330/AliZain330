@@ -13,23 +13,22 @@ I love building things with AI, and want to make the most of this AI era by turn
 
 Researching retrieval-augmented AI agents for automated engineering CAD generation.
 
-### 🧰 Technologies I’ve worked with
+### Technologies I have worked with
 
-**Languages I know** · Python, C++, R
-
-<img src="https://skillicons.dev/icons?i=python,cpp,r" alt="Python, C++, and R" />
-
-**Web & backend** · TypeScript, JavaScript, React, TanStack Start / Router / Query, Tailwind CSS, shadcn/ui, Node.js, Express, PostgreSQL, Prisma, Supabase
-
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,postgres,prisma,supabase,git&amp;perline=5" alt="React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Supabase, and Git" />
-
-**Data & ML** · Pandas, NumPy, scikit-learn, Jupyter, Power BI
-
-**CAD & automation** · AutoCAD, Python agents, PowerShell, WinRM, SMB, Tailscale
-
-**Tools & deployment** · Git, GitHub Actions, Bun, Vite, Vitest, ESLint, Cloudflare Workers, PM2
-
-**AI development** · OpenAI Codex, Claude Code, Cursor
+<table>
+  <tr>
+    <td align="center" valign="middle" width="25%">
+      <img src="https://skillicons.dev/icons?i=python,cpp,r" alt="Python, C++, R" />
+    </td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,express,postgres,prisma,supabase,git,githubactions,bun,vite,vitest,cloudflare,powershell,autocad,sklearn&amp;perline=6" alt="TypeScript, JavaScript, React, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Supabase, Git, GitHub Actions, Bun, Vite, Vitest, Cloudflare, PowerShell, AutoCAD, scikit-learn" />
+      <br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+    </td>
+  </tr>
+</table>
 
 ### 🥟 Say hi
 
