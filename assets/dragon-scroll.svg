@@ -1,22 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
-<title id="title">The Dragon Scroll</title>
+<title id="title">Hello, I’m Ali Zain — The Dragon Scroll</title>
 <desc id="desc">A friendly panda beside a golden scroll introducing Ali Zain, currently studying at HKU.</desc>
 <style>
 .reveal{transform-origin:480px 150px;animation:reveal 500ms cubic-bezier(.23,1,.32,1) both}
 @keyframes reveal{from{opacity:0;transform:scaleX(.95)}to{opacity:1;transform:scaleX(1)}}
-@media(prefers-reduced-motion:reduce){.reveal{animation:none}}
+.shine{animation:shine 3s cubic-bezier(.77,0,.175,1) 2;opacity:0}
+@keyframes shine{0%{transform:translateX(-400px);opacity:0}15%{opacity:1}85%{opacity:1}100%{transform:translateX(400px);opacity:0}}
+@media(prefers-reduced-motion:reduce){.reveal,.shine{animation:none}.shine{display:none}}
 </style>
+<defs>
+<linearGradient id="jade" x2="1" y2="1"><stop stop-color="#0c211e"/><stop offset="1" stop-color="#254b3b"/></linearGradient>
+<linearGradient id="paper" x2="0" y2="1"><stop stop-color="#eacb85"/><stop offset=".5" stop-color="#fff0ca"/><stop offset="1" stop-color="#dfb967"/></linearGradient>
+<linearGradient id="gleam"><stop stop-color="#fff4cf" stop-opacity="0"/><stop offset=".5" stop-color="#b77a13"/><stop offset="1" stop-color="#fff4cf" stop-opacity="0"/></linearGradient>
+<clipPath id="name"><text x="500" y="153" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="34">Hello, I’m Ali Zain.</text></clipPath>
+</defs>
 <rect width="960" height="300" rx="20" fill="#142b26"/>
+<rect x="1" y="1" width="958" height="298" rx="20" fill="url(#jade)" stroke="#ac893e" stroke-opacity=".55"/>
+<circle cx="828" cy="78" r="42" fill="#e8c56d" opacity=".25"/>
+<path d="M1 242 110 140 190 222 289 128 408 250 530 171 660 251 785 137 959 245V280H1Z" fill="#61836a" opacity=".2"/>
+<path d="M1 269 135 204 241 274 386 202 560 275 720 206 850 267 959 225V298H1Z" fill="#0b211c" opacity=".65"/>
 <g opacity=".15" stroke="#a4c67b" stroke-width="7"><path d="M52 300 79 0M103 300 117 0M862 300 884 0M904 300 925 0"/><path d="m65 170 40-12m-34-66 40-12m761 118 41-9m-37-74 42-9"/></g>
 <circle cx="768" cy="72" r="40" fill="#e8c56d" opacity=".12"/>
 <g class="reveal">
 <rect x="220" y="54" width="565" height="190" rx="8" fill="#e8c56d"/>
-<rect x="232" y="65" width="541" height="168" rx="3" fill="#f7e8bf" stroke="#b78b35"/>
+<rect x="232" y="65" width="541" height="168" rx="3" fill="url(#paper)" stroke="#b78b35"/>
+<path d="M245 91V78h22m471 0h22v13M245 207v13h22m471 0h22v-13" stroke="#a8792d" fill="none" stroke-width="2"/>
 <g fill="#9d692e" stroke="#e8c56d" stroke-width="2"><rect x="208" y="43" width="24" height="212" rx="12"/><rect x="773" y="43" width="24" height="212" rx="12"/></g>
 <text x="500" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="15" letter-spacing="5" fill="#6f713d">THE DRAGON SCROLL</text>
-<text x="500" y="153" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#263c30">Hey, I’m Ali Zain.</text>
+<text x="500" y="153" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="34" fill="#263c30">Hello, I’m Ali Zain.</text>
+<g clip-path="url(#name)"><rect class="shine" x="430" y="116" width="140" height="48" fill="url(#gleam)"/></g>
 <text x="500" y="190" text-anchor="middle" font-family="Georgia,serif" font-size="23" fill="#4e6248">Currently studying at HKU.</text>
 <path d="M460 211h80" stroke="#b78b35" stroke-width="2"/>
+<rect x="705" y="185" width="28" height="28" rx="3" fill="none" stroke="#a34c32" stroke-width="2"/>
+<path d="M711 193h16m-16 6h16m-8-11v18" stroke="#a34c32" stroke-width="2"/>
 </g>
 <g stroke="#172925" stroke-width="3">
 <ellipse cx="159" cy="225" rx="57" ry="45" fill="#f4f0e4"/>
