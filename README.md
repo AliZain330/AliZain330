@@ -5,7 +5,7 @@
 > “There is no secret ingredient. To make something special, you just have to believe it’s special.”  
 > — Mr. Ping, *Kung Fu Panda*
 
-Year two · **AI & Data Science** · Founder of **AALEEN** · Building [**Immersive**](https://aaleen.dev/immersive)
+Year two undergraduate at **The University of Hong Kong**, studying **AI & Data Science** · Founder of **AALEEN** · Building [**Immersive**](https://aaleen.dev/immersive)
 
 I love building things with AI, and want to make the most of this AI era by turning more of my ideas into things people can use. Right now, I’m a full-time student and a small-time entrepreneur. One day, I hope to call myself a full-time entrepreneur.
 
